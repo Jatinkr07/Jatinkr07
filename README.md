@@ -3,7 +3,7 @@ Hey! I'm Jatin Kumar,
 MERN Stack Developer | C++ Programmer | JavaScript 
 
 
-![vecteezy_programmer-people-concept-use-laptop-and-programming-code_](https://github.com/Jatinkr07/Jatinkr07/assets/142308699/90c04ec6-c476-4836-b930-fa9348468dba)
+![vecteezy_programmer-people-concept-use-laptop-and-programming-code_](https://github.com/Jatinkr07/Jatinkr07/assets/142308699/390103de-399a-4d0f-b526-e8262bbb550f)
 
 - 👋 Hi, I’m @Jatinkr07
 - 👀 I’m interested in ...
