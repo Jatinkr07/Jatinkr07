@@ -1,8 +1,9 @@
+Hey! I'm Jatin Kumar,
+
+MERN Stack Developer | C++ Programmer | JavaScript 
 
 
-
-
-![3426526](https://github.com/Jatinkr07/Jatinkr07/assets/142308699/8a7df1e6-ed74-49ff-a39b-54fd93960775)
+![vecteezy_programmer-people-concept-use-laptop-and-programming-code_](https://github.com/Jatinkr07/Jatinkr07/assets/142308699/90c04ec6-c476-4836-b930-fa9348468dba)
 
 - 👋 Hi, I’m @Jatinkr07
 - 👀 I’m interested in ...
