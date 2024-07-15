@@ -1,6 +1,6 @@
 Hey! I'm Jatin Kumar,
 
-MERN Stack Developer | C++ Programmer | JavaScript 
+MERN Stack Developer | C++ Programmer | JavaScript | React JS | Node JS
 
 
 ![vecteezy_programmer-people-concept-use-laptop-and-programming-code_](https://github.com/Jatinkr07/Jatinkr07/assets/142308699/390103de-399a-4d0f-b526-e8262bbb550f)
